@@ -1,0 +1,31 @@
+Esta es una base de datos de un juego llamado Valorant, donde se ven reflejadas mis partidas de ranked de los meses de Septiembre y Octubre. 
+También tiene unas tablas de los Agentes, Mapas del juego y una tabla de calendario (realizado en el mismo Power BI).
+
+Uno de mis hobbies es jugar videojuegos, actualmente Valorant es el que más juego, es de la empresa Riot Games, igual que LoL.
+La finalidad de este proyecto no es más que poner en práctica algunos conceptos aprendidos sobre Power BI y buenas prácticas de otro tipo (modelado tipo estrella y medidas DAX).
+
+El proyecto está terminado, el resultado final es el archivo Valorant.pbix o este link donde está con la vista de reporte:
+https://app.powerbi.com/view?r=eyJrIjoiYzY1YjYxOWEtNmU0Zi00MDYwLThkN2ItNDNkMjNjZmRiNzUyIiwidCI6IjAyNzYxMDQwLWRkYzYtNDU5NS05OTk2LTMyNzc0YTFmOTJmMyIsImMiOjl9&embedImagePlaceholder=true
+
+Este es un reporte del tipo informativo, comprendido por cinco pestañas:
+	1) Home: Partidas/WIN/LOST, tasa de victorias, promedio por partida, resultados por agentes y resultado por mapas.
+	2) Matches: Partidas/WIN/LOST, tasa de victorias, promedio por partida, resultados por fecha y KDA/ACS por fecha.
+	3) Matches details: Una tabla con todos los datos de las partidas jugadas y segmentadores con los cuales jugar para poder filtrar.
+	4) Maps: Partidas/WIN/LOST/tasa de victorias, promedio por mapa, ubicación del mapa, clasificación por partida, ubicación de mapas, tabla de mapas, segmentadores.
+	5) Agents: Partidas/ WIN LOST/tasa de victorias, promedio por agente, rol del agente, país originario, clasificación, resultados por agentes, tabla de agentes, segmentadores.
+	EXTRA: Maps & Agents tienen la particularidad de que poseen tres botones para ver el mejor Mapa/Agente, el más jugado y el peor.
+	BARRA: La barra de arriba posee logo del juego lleva a Home, Freuk lleva al tracker.gg con datos, el resto de páginas y la flecha curva es para eliminar todos los segmentadores aplicados.
+	TT: Todos los ToolTips son hechos personalizados, cada gráfica posee uno diferente, existen algunos con fotos de mapas/agentes, otros con diagramas de arbol con colores descriptivos, gráficos de barra o tablas.
+	FONDOS: Todos los fondos fueron realizados en Figma.com
+
+Los datos usados en este proyecto fueron obtenidos a partir de la página: tracker.gg
+
+En mi prefil de jugador: https://tracker.gg/valorant/profile/riot/Freuk%23FREUQ/overview
+
+GitHub: https://github.com/Freuq
+
+LinkedIn: https://www.linkedin.com/in/freuq/
+
+Valorant: Freuk #FREUQ
+
+¡GRACIAS POR LEER!

@@ -1,0 +1,30 @@
+This is a database of a game called Valorant, where my ranked games from the months of September and October are reflected.
+It also has tables of the Agents, Game Maps and a calendar table (made in the same Power BI).
+
+One of my hobbies is playing video games, I currently play more Valorant than others, it's from the Riot Games company, just like LoL.
+The purpose of this project is nothing more than to put into practice some concepts learned about Power BI and other good practices (star modeling and DAX measurements).
+
+The project is finished, the final result is the Valorant.pbix file or this link where it is with the report view:
+https://app.powerbi.com/view?r=eyJrIjoiYzY1YjYxOWEtNmU0Zi00MDYwLThkN2ItNDNkMjNjZmRiNzUyIiwidCI6IjAyNzYxMDQwLWRkYzYtNDU5NS05OTk2LTMyNzc0YTFmOTJmMyIsImMiOjl9&embedImagePlaceholder=true
+
+This is an informative type report, comprised of five tabs:
+	1) Home: Games/WIN/LOST, win rate, average per match, results by agents and results by maps.
+	2) Matches: Games/WIN/LOST, win rate, average per match, results per date and KDA/ACS per date.
+	3) Matches details: A table with all the data of the games played and segmenters with which to play to be able to filter.
+	4) Maps: Matches/WIN/LOST/win rate, average per map, map location, ranking per match, map location, map table, segmenters.
+	5) Agents: Matches/WIN LOST/win rate, average per agent, agent role, country of origin, ranking, results by agents, agent table, segmenters.
+	EXTRA: Maps & Agents have the peculiarity that they have three buttons to see the best Map/Agent, the most played and the worst.
+	BAR: The top bar has the game logo and leads to Home, Freuk leads to tracker.gg with data, the rest of the pages and the curved arrow is to eliminate all applied segmenters.
+	TT: All ToolTips are custom made, each graph has a different one, there are some with photos of maps/agents, others with tree diagrams with descriptive colors, bar graphs or tables.
+	BACKGROUNDS: All backgrounds were made on Figma.com
+The data used in this project was obtained from the page: tracker.gg
+
+In my player profile: https://tracker.gg/valorant/profile/riot/Freuk%23FREUQ/overview
+
+GitHub: https://github.com/Freuq
+
+LinkedIn: https://www.linkedin.com/in/freuq/
+
+Valorant: Freuk #FREUQ
+
+THANK YOU FOR READING!
