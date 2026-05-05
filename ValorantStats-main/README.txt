@@ -1,18 +1,30 @@
 # ValorantStats
 # **Dashboards created in Excel to visualize statistics for Valorant Esport**
 
-### **Insights and Reflection**
-Throughout the course of working on this project, I took on the task of creating comprehensive dashboards for a PC esports game, Valorant. My objective was to design and develop these dashboards to provide valuable insights into player performance, agent statistics, and map choice tendencies. As I reflect upon my journey, I recognize the significance and impact of my work in the world of competitive gaming. Professional esports teams hire teams analysts to breakdown each game to discover insights about opposing teams. At this level of competition, every advantage makes a difference. One extra round won can swing the 
-outcome of the match.
-
-One key insight I gained from this project was the importance of analyzing individual player performance. By delving deeper into player data, I was able to identify patterns, strengths, and areas of improvement for each player. Tracking essential performance metrics such as kill-death ratio, headshot percentage, and average damage per round allowed me to see a holistic overview of a player's gameplay prowess. This information not only 
-aids in player self-assessment but also serves as a valuable resource for coaches and teams in their pursuit of enhancing individual and colelctive performance.
-
-Agent statistic was another vital aspect of my dashboard project. Valorant, with its diverse range of agents, presents a complex ecosystem of gameplay mechanics and strategies. By analyzing map-specifc agent data such as win rate and gun round effectiveness, I was able to see why each agent was picked so often on certain maps. This knowledge can empower players and teams to make informed decisions about agent selection team composition, and tactical approaches. Furthermore, it sheds light on agent balance issues when one agent has an extremely high pick rate on maps, allowing developers to fine-tune the game and create a more equitable competitive environment. 
-
-Reflecting on my work, I am proud of the dashboards I was able to create. The visual representations of data not only provide a convenient and accessible means of understanding player performance, agent statistics, and map tendencies but also contribute to the growth and evolution of esports as a whole. As the esports industry continues to expand and mature, the role of data-driven insights becomes increasingly vital. My project stands at the forefront of this movement in hopes to facilitate the development of talent, the enhancement of strategies, and the improvement of the competitive nature of the game.
-
-Looking ahead, I recognize the potential for further refinement and expansion of my dashboard. The dynamic nature of esports means there is a need to constantly update and adapt to ensure the accuracy and relevance of the insights provided. As new agents are released, balance changes occur, and the meta shifts, my dashboard must reflect these developments. Another feature I would like to integrate into my dashboards is real-time data tracking, predictive analytics, and more interactive elements to provide an even more immersive and impactful user experience. 
-
-In conclusion, my project to create dashboards for Valorant has been an exciting and enlightening endeavor. The insights and reflections accumulated from my journey serve as a testament to the value of data-driven decision-making and the immense potential of esports as a competetive domain. As the esports landscape continues to evolve, I stand poised to adapt and innovate, fueling progress and hoping to propel the industry forward with my work. 
-
+## Insights & Reflection (Valorant Dashboard Project)
+--I worked on this project as an aspiring data analyst, mainly because I’m really interested in esports and wanted to see how data can actually improve gameplay decisions.
+## Player Performance
+--I looked at things like kills, deaths, accuracy, and damage to understand how each player performs.
+--One thing I noticed is that players who stay alive longer and take smarter fights usually have more impact than just aggressive players with high kills.
+--So it’s not just about getting kills, it’s about consistency and decision-making.
+## Agent (Character) Analysis
+-- Some agents like Jett were picked a lot and also performed well.
+-- That tells us they’re not just popular, but actually strong in the current game meta.
+-- This kind of insight helps teams decide which agents to pick or avoid.
+## Simple Metrics That Matter
+--I focused on easy metrics like:
+    @ kills per round (impact)
+    @ deaths per round (survivability)
+    @ headshot % (accuracy)
+--This makes it easier for anyone, even non-technical people, to understand the data.
+## Team Strategy Insights
+The dashboard can help answer questions like:
+1) Which player is consistent?
+2) Who is taking too many early risks?
+--Even small improvements, like reducing unnecessary deaths, can change match outcomes.
+## What I Learned ? -->
+--The biggest thing I learned is that data is only useful if it’s simple and clear.
+--My focus was to make insights easy to understand, not just technically correct.
+##What I’d Improve Next
+-- Try basic predictions like win probability
+-- Make the dashboard more interactive using BI tools
