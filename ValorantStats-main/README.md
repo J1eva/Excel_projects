@@ -1,5 +1,5 @@
 # ValorantStats
-# **Dashboards created in Excel to visualize statistics for Valorant Esport**
+# Dashboards created in Excel to visualize statistics for Valorant Esport
 
 ## Insights & Reflection (Valorant Dashboard Project)
 --I worked on this project as an aspiring data analyst, mainly because I’m really interested in esports and wanted to see how data can actually improve gameplay decisions.
@@ -25,14 +25,14 @@ The dashboard can help answer questions like:
 ## What I Learned ? -->
 --The biggest thing I learned is that data is only useful if it’s simple and clear.
 --My focus was to make insights easy to understand, not just technically correct.
-##What I’d Improve Next
+## What I’d Improve Next
 -- Try basic predictions like win probability
 -- Make the dashboard more interactive using BI tools
-*MAP analysis*
+# *MAP analysis* 
 <img width="1051" height="629" alt="image" src="https://github.com/user-attachments/assets/4d3c4c4d-9361-4fe4-a17d-fa2d0413190c" />
-*Agent meta check*
+# *Agent meta check*
 <img width="1232" height="500" alt="image" src="https://github.com/user-attachments/assets/28165417-156c-4a52-8a82-f15b63084c62" />
-*pro Player stats*
+# *pro Player stats*
 <img width="1020" height="431" alt="image" src="https://github.com/user-attachments/assets/3ddcd479-9f73-4db8-8534-af27be20a6ab" />
 
 
