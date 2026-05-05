@@ -30,8 +30,10 @@ The dashboard can help answer questions like:
 -- Make the dashboard more interactive using BI tools
 # *MAP analysis* 
 <img width="1051" height="629" alt="image" src="https://github.com/user-attachments/assets/4d3c4c4d-9361-4fe4-a17d-fa2d0413190c" />
+
 # *Agent meta check*
 <img width="1232" height="500" alt="image" src="https://github.com/user-attachments/assets/28165417-156c-4a52-8a82-f15b63084c62" />
+
 # *pro Player stats*
 <img width="1020" height="431" alt="image" src="https://github.com/user-attachments/assets/3ddcd479-9f73-4db8-8534-af27be20a6ab" />
 
